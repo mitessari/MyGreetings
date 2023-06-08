@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Front End Developer
 --------------------------
 
-I am a junior developer who discover their passion on tech industry who enjoy create a delightful experiences using user friendly frameworks like Tailwindcss. My speciality is React.JS.
+I am a junior developer who discover their passion on tech industry and enjoy create a delightful experiences using user friendly frameworks like Tailwindcss. My speciality is React.JS.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [mitessari@yahoo.com.br](mailto:mitessari@yahoo.com.br)
